@@ -1,0 +1,2 @@
+jarlocation: drhadoop-mapreduce/jobs/mapreduce-1.0-SNAPSHOT.jar
+arguments: com.iamkristian.mapreduce.jobs.OnDemandLogClickCounter s3n://drhadoop-mapreduce/logs s3n://drhadoop-mapreduce/output
